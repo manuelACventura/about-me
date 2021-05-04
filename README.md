@@ -3,11 +3,11 @@
 
 
 <p align="left"> 
-  Olá meu nome é Iuri, sou <strong>Desenvolvedor de Front-End</strong> e <strong>UI Designer</strong>. Estou disponível para freelas/trabalho, caso precise contratar meu serviço entre em contato.
+  Olá meu nome é Manuel, sou <strong>Desenvolvedor Fullstack</strong> e <strong>UI Designer</strong>. Estou disponível para freelas/trabalho, caso precise contratar meu serviço entre em contato.
 </p>
 
 <p align="left">
-  🦄 Habilidades: <strong>HTML, CSS, JavaScript, Sass, Bootstrap, ReactJS, Next.js e Styled Components.</strong>
+  🦄 Habilidades: <strong>HTML, CSS, JavaScript, Bootstrap e Syled Components.</strong>
 </p>
 
 <p align="left">
